@@ -59,7 +59,7 @@ function instance(system, id, config) {
 	self.defineConst('REGEX_SIGNED_NUMBER', '/^[+-]?\\d+$/')
 	self.defineConst(
 		'REGEX_TIMECODE',
-		'/^(0*[0-9]|1[0-9]|2[0-4]):(0*[0-9]|[1-5][0-9]|60):(0*[0-9]|[1-5][0-9]|60):(0*[0-9]|[12][0-9]|30)$/'
+		'/^(0*[0-9]|1[0-9]|2[0-4]):(0*[0-9]|[1-5][0-9]|60):(0*[0-9]|[1-5][0-9]|60)[:;](0*[0-9]|[12][0-9]|30)$/'
 	)
 	self.defineConst('CHOICES_YESNO_BOOLEAN', [
 		{ id: 'true', label: 'Yes' },
