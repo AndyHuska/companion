@@ -152,7 +152,7 @@
 		"check-ip": "^1.1.1",
 		"companion-module-bitfocus-companion": "github:bitfocus/companion-module-bitfocus-companion#v1.7.0",
 		"companion-module-bitfocus-snapshot": "github:bitfocus/companion-module-bitfocus-snapshot#v0.0.4",
-		"companion-module-bmd-atem": "github:bitfocus/companion-module-bmd-atem#v2.13.0",
+		"companion-module-bmd-atem": "github:AndyHuska/companion-module-bmd-atem#master",
 		"companion-module-bmd-audiomonitor": "github:bitfocus/companion-module-bmd-audiomonitor#v1.0.0",
 		"companion-module-bmd-hyperdeck": "github:AndyHuska/companion-module-bmd-hyperdeck#master",
 		"companion-module-bmd-multiview16": "github:bitfocus/companion-module-bmd-multiview16#v1.0.1",
